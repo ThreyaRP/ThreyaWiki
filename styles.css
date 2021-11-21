@@ -1,7 +1,13 @@
 * {
-    margin: 8dp;
+    margin: 8px;
+    padding: 0px;
+    height: 100%;
+    width: 100%;
 }
 
 body {
     background-image: url("background.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
 }
