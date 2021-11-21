@@ -1,3 +1,7 @@
 * {
     margin: 8dp;
 }
+
+body {
+    background-image: url("background.png");
+}
